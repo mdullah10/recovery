@@ -1,0 +1,9 @@
+package Core.java;
+import java.util.Scanner;
+public class Bmw {
+Scanner input = new Scanner(System.in);
+int a;
+number = input.nextInt();
+System.out.prinyln("the number is"); 
+}
+}

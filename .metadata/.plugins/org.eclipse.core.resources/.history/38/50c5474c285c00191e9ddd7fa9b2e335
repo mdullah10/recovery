@@ -1,0 +1,17 @@
+package abatracconcept;
+
+public class Test extends AbastractTelecom {
+
+	public static void main(String[] args) {
+
+
+	}
+
+	@Override
+	public void massage() {
+
+
+		
+	}
+
+}

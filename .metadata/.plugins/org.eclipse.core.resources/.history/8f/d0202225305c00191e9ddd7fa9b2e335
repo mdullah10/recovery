@@ -1,0 +1,11 @@
+package oop;
+
+public class Audi extends Car {
+	
+	public void start() {
+		System.out.println("Audi...start");
+	}
+	public void thretsafty() {
+		System.out.println("Audi... thretsafty");
+	}
+}

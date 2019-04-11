@@ -1,0 +1,13 @@
+package abatracconcept;
+
+public abstract class AbatractTelecom {
+	
+	public abstract void massage();
+	
+	public void misscall() {
+	
+	
+	}
+	
+
+}

@@ -1,0 +1,14 @@
+package Core.java;
+
+public class Bmw {
+	int Year;
+	String model;
+	public Bmw(){
+}
+	public Bmw(int year) {
+	
+	}
+	public Bmw(String model) {
+		
+	}
+}

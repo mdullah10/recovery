@@ -1,0 +1,30 @@
+package Core.java;
+
+import javax.swing.plaf.synth.SynthDesktopIconUI;
+
+public class IfElseConcept {
+
+	public static void main(String[] args) {
+		
+		int a = 10;
+		int b = 20;
+		
+		if (b>a) {
+		System.out.println("b is greater than a");
+		} 
+		else {
+		System.out.println("a is greater than b");
+		}
+		//Comparison operator
+		int c = 30;
+		int d = 30;
+		if (c==d) {
+		System.out.println("c and d are equal");
+		}
+		else {
+		System.out.println("c and d are not equal");
+		}
+
+	}
+
+}

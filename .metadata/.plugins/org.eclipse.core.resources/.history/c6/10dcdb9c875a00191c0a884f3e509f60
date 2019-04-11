@@ -1,0 +1,10 @@
+package Core.java;
+
+public class execution {
+
+public static void main(String[]args) {
+	Bmw obj= new Bmw();
+	Bmw obj1= new Bmw();
+	Bmw obj2= new Bmw();
+	}
+	}

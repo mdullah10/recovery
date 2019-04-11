@@ -1,0 +1,5 @@
+package abatracconcept;
+
+public abstract class AbatractTelecom {
+
+}

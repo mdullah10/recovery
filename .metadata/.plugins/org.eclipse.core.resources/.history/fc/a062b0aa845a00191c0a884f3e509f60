@@ -1,0 +1,17 @@
+package Core.java;
+
+public class Bmw {
+
+		int year;
+		String model;
+		
+	public Bmw () {
+		System.out.println("Default constroctor");
+	}
+	
+	public Bmw (int year) {
+		
+	}
+	public Bmw (int year)
+}
+

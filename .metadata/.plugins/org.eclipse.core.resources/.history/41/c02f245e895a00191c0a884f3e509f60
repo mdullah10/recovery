@@ -1,0 +1,12 @@
+package Core.java;
+
+public class execution {
+
+public static void main(String[]args) {
+	Bmw obj = new Bmw();
+	Bmw obj1= new Bmw();
+	
+	System.out.println(obj.year);
+	
+	}
+}

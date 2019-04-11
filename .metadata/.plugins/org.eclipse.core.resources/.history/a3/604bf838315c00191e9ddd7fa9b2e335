@@ -1,0 +1,26 @@
+package oop;
+
+public class TestCar {
+
+	public static void main(String[] args) {
+		//Static Polimerfism
+		
+		Audi a = new Audi();
+		a.start();
+		a.stop();
+		a.brake();
+		a.thretsafty();
+		
+		System.out.println("........");
+		
+		Car c = new Car();
+		c.start();
+		c.stop();
+		c.brake();
+
+
+		
+
+	}
+
+}

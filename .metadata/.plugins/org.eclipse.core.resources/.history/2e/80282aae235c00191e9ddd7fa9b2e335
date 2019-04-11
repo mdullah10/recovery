@@ -1,0 +1,5 @@
+package abstractionconcept;
+
+public interface Telecom {
+
+}

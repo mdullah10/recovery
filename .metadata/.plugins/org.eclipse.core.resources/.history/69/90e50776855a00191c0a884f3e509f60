@@ -1,0 +1,9 @@
+package Core.java;
+
+public class Bmw {
+	{
+
+int a;
+System.out.println("the number is" + int); 
+}
+}

@@ -1,0 +1,10 @@
+package Core.java;
+
+public class Bmw {
+
+String model;
+model =input.nextLine();
+		System.out.println("Default constroctor");
+
+}
+}
